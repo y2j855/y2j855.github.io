@@ -1,0 +1,9 @@
+baseurl = "http://y2j855.github.io/"
+languageCode = "en-us"
+title = "Tony Chen"
+theme = "hyde"
+
+[params]
+	description = "这里是Tony Chen的个人博客"
+	themeColor = "theme-base-08" #for hyde theme
+	Categories = ["test1","test2"]
